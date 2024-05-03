@@ -1,0 +1,1 @@
+cmd_/home/msis/dd/q2/ldd4-master/scull/scull.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/msis/dd/q2/ldd4-master/scull/scull.ko /home/msis/dd/q2/ldd4-master/scull/scull.o /home/msis/dd/q2/ldd4-master/scull/scull.mod.o;  true

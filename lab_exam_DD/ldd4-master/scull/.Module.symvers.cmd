@@ -1,0 +1,1 @@
+savedcmd_/home/msis/lab_exam/ldd4-master/scull/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/msis/lab_exam/ldd4-master/scull/Module.symvers -T /home/msis/lab_exam/ldd4-master/scull/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+cmd_/home/msis/Desktop/ldd4-master/ldd4-master/misc-modules/hello.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/msis/Desktop/ldd4-master/ldd4-master/misc-modules/hello.ko /home/msis/Desktop/ldd4-master/ldd4-master/misc-modules/hello.o /home/msis/Desktop/ldd4-master/ldd4-master/misc-modules/hello.mod.o;  true

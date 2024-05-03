@@ -1,0 +1,1 @@
+cmd_/home/msis/dd/ldd4-master/misc-modules/kernel_semaphore.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/msis/dd/ldd4-master/misc-modules/kernel_semaphore.ko /home/msis/dd/ldd4-master/misc-modules/kernel_semaphore.o /home/msis/dd/ldd4-master/misc-modules/kernel_semaphore.mod.o;  true
