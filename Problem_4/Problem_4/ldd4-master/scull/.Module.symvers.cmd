@@ -1,1 +1,0 @@
-savedcmd_/home/msis/dd/problems/Problem_4/ldd4-master/scull/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/msis/dd/problems/Problem_4/ldd4-master/scull/Module.symvers -T /home/msis/dd/problems/Problem_4/ldd4-master/scull/modules.order -i Module.symvers -e 
